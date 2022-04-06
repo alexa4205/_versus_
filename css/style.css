@@ -6,6 +6,7 @@ body {
 
 /* первый контейнер */
 /* начало */
+/* фон */
 .container-nav {
     background-image: linear-gradient(to top, #222222, #22222200), url(../images/main-picture.png);
     background-repeat: no-repeat;
@@ -13,11 +14,13 @@ body {
     background-color: #222222;
 }
 
+/* логотип */
 .navbar-brand {
     font-size: 24px;
     padding-left: 15px;
 }
 
+/* навигация */
 .nav-item {
     font-size: 11px;
     text-transform: uppercase;
